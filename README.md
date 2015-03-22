@@ -22,5 +22,3 @@ with fixed-width font
 ```
 
 > Blockquotes are offset
-
-
